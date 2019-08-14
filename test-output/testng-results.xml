@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2197" started-at="2019-08-14T09:48:12Z" finished-at="2019-08-14T09:48:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2197" started-at="2019-08-14T09:48:12Z" finished-at="2019-08-14T09:48:15Z">
+      <class name="com.qa.base.RetriveLog">
+        <test-method status="PASS" signature="searchlog()[pri:0, instance:com.qa.base.RetriveLog@3cb5cdba]" name="searchlog" duration-ms="2157" started-at="2019-08-14T15:18:12Z" finished-at="2019-08-14T15:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchlog -->
+      </class> <!-- com.qa.base.RetriveLog -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,206 @@
+2019-07-29 00:22:31 INFO  VerifyRestfulAPI:37 - ------------- : Test Case: Login -----------------------
+2019-07-29 00:22:31 INFO  VerifyRestfulAPI:38 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-07-29 00:22:35 INFO  VerifyRestfulAPI:47 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@2a27cb34
+2019-07-29 00:22:36 INFO  VerifyRestfulAPI:51 - The StatusLine is :HTTP/1.1 200 OK
+2019-07-29 00:22:36 FATAL VerifyRestfulAPI:55 - The Response is :text/html; charset=UTF-8
+2019-07-29 00:22:36 FATAL VerifyRestfulAPI:57 - Server Type is:Apache
+2019-07-29 00:22:36 INFO  VerifyRestfulAPI:60 - All the headers is:Date=Sun, 28 Jul 2019 18:52:32 GMT
+Server=Apache
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Set-Cookie=PHPSESSID=550c21fa1f1e05b885c35990df5cd607; path=/
+Upgrade=h2,h2c
+Connection=Upgrade, Keep-Alive
+Vary=Accept-Encoding
+Content-Encoding=gzip
+Referrer-Policy=
+Content-Length=10740
+Keep-Alive=timeout=5, max=75
+Content-Type=text/html; charset=UTF-8
+2019-07-29 00:22:36 INFO  VerifyRestfulAPI:64 - ResponseBody is:null
+2019-07-29 00:22:36 FATAL VerifyRestfulAPI:67 - Statuc Code is:200
+2019-07-29 00:22:36 INFO  VerifyRestfulAPI:70 - Time is:2298.0
+2019-07-29 00:22:36 INFO  VerifyRestfulAPI:73 - Content Length is:24
+2019-07-29 00:22:36 INFO  VerifyRestfulAPI:80 - ------------- : Test Case: Logout -----------------------
+2019-07-29 00:22:36 INFO  VerifyRestfulAPI:81 - ------------- : Populate Perticular Employee Details : -----------------------
+2019-07-29 00:22:36 ERROR VerifyRestfulAPI:88 - The Specific Employee Details are :io.restassured.internal.RestAssuredResponseImpl@7965a51c
+2019-07-29 00:22:36 ERROR VerifyRestfulAPI:91 - Get Specific Employee Details Response Body is :=>  false
+2019-07-29 00:23:29 INFO  VerifyRestfulAPI:37 - ------------- : Test Case: Login -----------------------
+2019-07-29 00:23:29 INFO  VerifyRestfulAPI:38 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-07-29 00:23:34 INFO  VerifyRestfulAPI:47 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@161f6623
+2019-07-29 00:23:34 INFO  VerifyRestfulAPI:51 - The StatusLine is :HTTP/1.1 200 OK
+2019-07-29 00:23:34 FATAL VerifyRestfulAPI:55 - The Response is :text/html; charset=UTF-8
+2019-07-29 00:23:34 FATAL VerifyRestfulAPI:57 - Server Type is:Apache
+2019-07-29 00:23:34 INFO  VerifyRestfulAPI:60 - All the headers is:Date=Sun, 28 Jul 2019 18:53:30 GMT
+Server=Apache
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Set-Cookie=PHPSESSID=a5911630b6e885d32fc2d7da88d267e2; path=/
+Upgrade=h2,h2c
+Connection=Upgrade, Keep-Alive
+Vary=Accept-Encoding
+Content-Encoding=gzip
+Referrer-Policy=
+Content-Length=10744
+Keep-Alive=timeout=5, max=75
+Content-Type=text/html; charset=UTF-8
+2019-07-29 00:23:34 INFO  VerifyRestfulAPI:64 - ResponseBody is:null
+2019-07-29 00:23:34 FATAL VerifyRestfulAPI:67 - Statuc Code is:200
+2019-07-29 00:23:34 INFO  VerifyRestfulAPI:70 - Time is:2574.0
+2019-07-29 00:23:34 INFO  VerifyRestfulAPI:73 - Content Length is:24
+2019-07-29 00:23:34 INFO  VerifyRestfulAPI:80 - ------------- : Test Case: Logout -----------------------
+2019-07-29 00:23:34 INFO  VerifyRestfulAPI:81 - ------------- : Populate Perticular Employee Details : -----------------------
+2019-07-29 00:23:35 ERROR VerifyRestfulAPI:88 - The Specific Employee Details are :io.restassured.internal.RestAssuredResponseImpl@7569ea63
+2019-07-29 00:23:35 ERROR VerifyRestfulAPI:91 - Get Specific Employee Details Response Body is :=>  false
+2019-07-29 00:28:04 INFO  VerifyRestfulAPI:37 - ------------- : Test Case: Login -----------------------
+2019-07-29 00:28:04 INFO  VerifyRestfulAPI:38 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-07-29 00:28:08 INFO  VerifyRestfulAPI:47 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@1d75e7af
+2019-07-29 00:28:08 INFO  VerifyRestfulAPI:51 - The StatusLine is :HTTP/1.1 200 OK
+2019-07-29 00:28:08 FATAL VerifyRestfulAPI:55 - The Response is :text/html; charset=UTF-8
+2019-07-29 00:28:08 FATAL VerifyRestfulAPI:57 - Server Type is:Apache
+2019-07-29 00:28:08 INFO  VerifyRestfulAPI:60 - All the headers is:Date=Sun, 28 Jul 2019 18:58:04 GMT
+Server=Apache
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Set-Cookie=PHPSESSID=0a396baac8dcb7029ae128943fa13f87; path=/
+Upgrade=h2,h2c
+Connection=Upgrade, Keep-Alive
+Vary=Accept-Encoding
+Content-Encoding=gzip
+Referrer-Policy=
+Content-Length=10742
+Keep-Alive=timeout=5, max=75
+Content-Type=text/html; charset=UTF-8
+2019-07-29 00:28:08 INFO  VerifyRestfulAPI:64 - ResponseBody is:null
+2019-07-29 00:28:08 FATAL VerifyRestfulAPI:67 - Statuc Code is:200
+2019-07-29 00:28:08 INFO  VerifyRestfulAPI:70 - Time is:2097.0
+2019-07-29 00:28:08 INFO  VerifyRestfulAPI:73 - Content Length is:24
+2019-07-29 00:28:08 INFO  VerifyRestfulAPI:80 - ------------- : Test Case: Logout -----------------------
+2019-07-29 00:28:08 INFO  VerifyRestfulAPI:81 - ------------- : Populate Perticular Employee Details : -----------------------
+2019-07-29 00:28:09 ERROR VerifyRestfulAPI:88 - The Specific Employee Details are :io.restassured.internal.RestAssuredResponseImpl@74d3b638
+2019-07-29 00:28:09 ERROR VerifyRestfulAPI:91 - Get Specific Employee Details Response Body is :=>  false
+2019-07-29 00:30:44 INFO  VerifyRestfulAPI:37 - ------------- : Test Case: Login -----------------------
+2019-07-29 00:30:44 INFO  VerifyRestfulAPI:38 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-07-29 00:30:48 INFO  VerifyRestfulAPI:47 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@2a27cb34
+2019-07-29 00:30:48 INFO  VerifyRestfulAPI:51 - The StatusLine is :HTTP/1.1 200 OK
+2019-07-29 00:30:48 FATAL VerifyRestfulAPI:55 - The Response is :text/html; charset=UTF-8
+2019-07-29 00:30:48 FATAL VerifyRestfulAPI:57 - Server Type is:Apache
+2019-07-29 00:30:48 INFO  VerifyRestfulAPI:60 - All the headers is:Date=Sun, 28 Jul 2019 19:00:44 GMT
+Server=Apache
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Set-Cookie=PHPSESSID=926d6b118e605e602e63c2849d5169c9; path=/
+Upgrade=h2,h2c
+Connection=Upgrade, Keep-Alive
+Vary=Accept-Encoding
+Content-Encoding=gzip
+Referrer-Policy=
+Content-Length=10760
+Keep-Alive=timeout=5, max=75
+Content-Type=text/html; charset=UTF-8
+2019-07-29 00:30:48 INFO  VerifyRestfulAPI:64 - ResponseBody is:null
+2019-07-29 00:30:48 FATAL VerifyRestfulAPI:67 - Statuc Code is:200
+2019-07-29 00:30:48 INFO  VerifyRestfulAPI:70 - Time is:2396.0
+2019-07-29 00:30:48 INFO  VerifyRestfulAPI:73 - Content Length is:24
+2019-07-29 00:30:48 INFO  VerifyRestfulAPI:80 - ------------- : Test Case: Logout -----------------------
+2019-07-29 00:30:48 INFO  VerifyRestfulAPI:81 - ------------- : Populate Perticular Employee Details : -----------------------
+2019-07-29 00:30:49 ERROR VerifyRestfulAPI:88 - The Specific Employee Details are :io.restassured.internal.RestAssuredResponseImpl@7965a51c
+2019-07-29 00:30:49 ERROR VerifyRestfulAPI:91 - Get Specific Employee Details Response Body is :=>  false
+2019-07-29 00:31:41 INFO  VerifyRestfulAPI:37 - ------------- : Test Case: Login -----------------------
+2019-07-29 00:31:41 INFO  VerifyRestfulAPI:38 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-07-29 00:31:45 INFO  VerifyRestfulAPI:47 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@131ff6fa
+2019-07-29 00:31:45 INFO  VerifyRestfulAPI:51 - The StatusLine is :HTTP/1.1 200 OK
+2019-07-29 00:31:45 FATAL VerifyRestfulAPI:55 - The Response is :text/html; charset=UTF-8
+2019-07-29 00:31:45 FATAL VerifyRestfulAPI:57 - Server Type is:Apache
+2019-07-29 00:31:45 INFO  VerifyRestfulAPI:60 - All the headers is:Date=Sun, 28 Jul 2019 19:01:42 GMT
+Server=Apache
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Set-Cookie=PHPSESSID=b66b7721af9c70ab3a37090652049e63; path=/
+Upgrade=h2,h2c
+Connection=Upgrade, Keep-Alive
+Vary=Accept-Encoding
+Content-Encoding=gzip
+Referrer-Policy=
+Content-Length=10760
+Keep-Alive=timeout=5, max=75
+Content-Type=text/html; charset=UTF-8
+2019-07-29 00:31:45 INFO  VerifyRestfulAPI:64 - ResponseBody is:null
+2019-07-29 00:31:45 FATAL VerifyRestfulAPI:67 - Statuc Code is:200
+2019-07-29 00:31:45 INFO  VerifyRestfulAPI:70 - Time is:2079.0
+2019-07-29 00:31:45 INFO  VerifyRestfulAPI:73 - Content Length is:24
+2019-07-29 00:31:45 INFO  VerifyRestfulAPI:80 - ------------- : Test Case: Logout -----------------------
+2019-07-29 00:31:45 INFO  VerifyRestfulAPI:81 - ------------- : Populate Perticular Employee Details : -----------------------
+2019-07-29 00:31:46 ERROR VerifyRestfulAPI:88 - The Specific Employee Details are :io.restassured.internal.RestAssuredResponseImpl@11f406f8
+2019-07-29 00:31:46 ERROR VerifyRestfulAPI:91 - Get Specific Employee Details Response Body is :=>  false
+2019-07-29 00:36:33 INFO  VerifyRestfulAPI:37 - ------------- : Test Case: Login -----------------------
+2019-07-29 00:36:33 INFO  VerifyRestfulAPI:38 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-07-29 00:36:37 INFO  VerifyRestfulAPI:47 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@2a27cb34
+2019-07-29 00:36:37 INFO  VerifyRestfulAPI:51 - The StatusLine is :HTTP/1.1 200 OK
+2019-07-29 00:36:37 FATAL VerifyRestfulAPI:55 - The Response is :text/html; charset=UTF-8
+2019-07-29 00:36:37 FATAL VerifyRestfulAPI:57 - Server Type is:Apache
+2019-07-29 00:36:37 INFO  VerifyRestfulAPI:60 - All the headers is:Date=Sun, 28 Jul 2019 19:06:34 GMT
+Server=Apache
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Set-Cookie=PHPSESSID=0eeeaaa46a24b4b9cc0d9f6a88e73afb; path=/
+Upgrade=h2,h2c
+Connection=Upgrade, Keep-Alive
+Vary=Accept-Encoding
+Content-Encoding=gzip
+Referrer-Policy=
+Content-Length=10821
+Keep-Alive=timeout=5, max=75
+Content-Type=text/html; charset=UTF-8
+2019-07-29 00:36:37 INFO  VerifyRestfulAPI:64 - ResponseBody is:null
+2019-07-29 00:36:37 FATAL VerifyRestfulAPI:67 - Statuc Code is:200
+2019-07-29 00:36:37 INFO  VerifyRestfulAPI:70 - Time is:2282.0
+2019-07-29 00:36:37 INFO  VerifyRestfulAPI:73 - Content Length is:24
+2019-07-29 00:36:37 INFO  VerifyRestfulAPI:80 - ------------- : Test Case: Logout -----------------------
+2019-07-29 00:36:37 INFO  VerifyRestfulAPI:81 - ------------- : Populate Perticular Employee Details : -----------------------
+2019-07-29 00:36:38 ERROR VerifyRestfulAPI:88 - The Specific Employee Details are :io.restassured.internal.RestAssuredResponseImpl@7965a51c
+2019-07-29 00:36:38 ERROR VerifyRestfulAPI:91 - Get Specific Employee Details Response Body is :=>  false
+2019-07-29 00:40:25 INFO  VerifyRestfulAPI:37 - ------------- : Test Case: Login -----------------------
+2019-07-29 00:40:25 INFO  VerifyRestfulAPI:38 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-07-29 00:40:29 INFO  VerifyRestfulAPI:47 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@35835fa
+2019-07-29 00:40:29 INFO  VerifyRestfulAPI:51 - The StatusLine is :HTTP/1.1 200 OK
+2019-07-29 00:40:29 FATAL VerifyRestfulAPI:55 - The Response is :text/html; charset=UTF-8
+2019-07-29 00:40:29 FATAL VerifyRestfulAPI:57 - Server Type is:Apache
+2019-07-29 00:40:29 INFO  VerifyRestfulAPI:60 - All the headers is:Date=Sun, 28 Jul 2019 19:10:25 GMT
+Server=Apache
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Set-Cookie=PHPSESSID=3cebb1eaaf6331bede24a77dcfef716f; path=/
+Upgrade=h2,h2c
+Connection=Upgrade, Keep-Alive
+Vary=Accept-Encoding
+Content-Encoding=gzip
+Referrer-Policy=
+Content-Length=10848
+Keep-Alive=timeout=5, max=75
+Content-Type=text/html; charset=UTF-8
+2019-07-29 00:40:29 INFO  VerifyRestfulAPI:64 - ResponseBody is:null
+2019-07-29 00:40:29 FATAL VerifyRestfulAPI:67 - Statuc Code is:200
+2019-07-29 00:40:29 INFO  VerifyRestfulAPI:70 - Time is:2260.0
+2019-07-29 00:40:29 INFO  VerifyRestfulAPI:73 - Content Length is:24
