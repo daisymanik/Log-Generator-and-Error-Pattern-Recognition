@@ -1,0 +1,181 @@
+OPPS ! The Same Issue have  Found on below Previous Logs..
+
+-----------------------------------------------------TC_02----------------------------------------------------
+
+The StatusLine is :HTTP/1.1 404 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_02-08-2019-04-11-10.log
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_02-08-2019-04-11-10.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_02-08-2019-04-11-10.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_02-08-2019-04-11-10.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_02-08-2019-04-15-19.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_02-08-2019-04-15-19.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_02-08-2019-04-15-19.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_04-08-2019-05-30-43.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_04-08-2019-05-30-43.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_01_04-08-2019-05-30-43.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_04-08-2019-05-51-16.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_04-08-2019-05-51-16.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_04-08-2019-05-51-16.log
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_05-08-2019-12-58-54.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_05-08-2019-12-58-54.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_05-08-2019-12-58-54.log
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-01-40-59.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-01-40-59.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-01-40-59.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-03-23-41.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-03-23-41.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-03-23-41.log
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-04-38-12.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-04-38-12.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-04-38-12.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-04-38-53.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-04-38-53.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-04-38-53.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-04-42-29.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-05-07-56.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-05-07-56.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-05-07-56.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-06-42-10.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-06-42-10.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-06-42-10.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-06-42-40.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-06-42-40.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_07-08-2019-06-42-40.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-02-59-55.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-02-59-55.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-02-59-55.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-03-59-12.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-03-59-12.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-03-59-12.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-06-59-24.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-06-59-24.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-06-59-24.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-07-09-55.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-07-09-55.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-07-09-55.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-07-12-04.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-07-12-04.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_08-08-2019-07-12-04.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-46-19.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-46-19.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-46-19.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-46-19.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-48-39.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-48-39.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-48-39.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-48-39.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-49-45.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-49-45.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-49-45.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-49-45.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-57-29.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-57-29.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-57-29.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-02-57-29.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-03-04-10.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-03-04-10.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-03-04-10.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-03-04-10.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-04-12-04.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-04-12-04.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-04-12-04.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_09-08-2019-04-12-04.log
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-06-21.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-06-21.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-06-21.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-06-21.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-10-56.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-10-56.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-10-56.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-10-56.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-14-01.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-14-01.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-14-01.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-14-01.log
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-16-34.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-16-34.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-16-34.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-16-34.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-20-22.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-20-22.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-20-22.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-01-20-22.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-10-56-48.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-10-56-48.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-10-56-48.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-10-56-48.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-10-58-24.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-10-58-24.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-10-58-24.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-10-58-24.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-33-10.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-33-10.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-33-10.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-33-10.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-36-58.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-36-58.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-36-58.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-36-58.log
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-43-32.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-43-32.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-43-32.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-43-32.log
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-46-59.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-46-59.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-46-59.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-46-59.log
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-54-55.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-54-55.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-54-55.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_12-08-2019-12-54-55.log
+-------------------------------------------------------------------------------------------------------------------------------------
+Server Type is:Apache --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_13-08-2019-02-32-00.log
+Statuc Code is:200 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_13-08-2019-02-32-00.log
+Content Length is:24 --> issue is related with --> C:\Log_Source_code\RestfulTraining\Logs\TC_02_13-08-2019-02-32-00.log
+-------------------------------------------------------------------------------------------------------------------------------------

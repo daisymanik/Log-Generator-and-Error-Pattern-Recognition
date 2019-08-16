@@ -1,0 +1,17 @@
+2019-08-09 14:57:29 INFO  VerifyRestfulAPI:42 - ------------- : Test Case: TC001_getEmployeeDetails -----------------------
+2019-08-09 14:57:29 INFO  VerifyRestfulAPI:44 - ------------- : Test Case: Login -----------------------
+2019-08-09 14:57:29 INFO  VerifyRestfulAPI:45 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-08-09 14:57:33 INFO  VerifyRestfulAPI:55 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@3da05287
+2019-08-09 14:57:36 INFO  VerifyRestfulAPI:60 - The StatusLine is :HTTP/1.1 200 OK
+2019-08-09 14:57:36 FATAL VerifyRestfulAPI:64 - The Response is :text/html; charset=UTF-8
+2019-08-09 14:57:36 FATAL VerifyRestfulAPI:70 - Server Type is:Apache
+2019-08-09 14:57:36 INFO  VerifyRestfulAPI:77 - ResponseBody is:null
+2019-08-09 14:57:36 FATAL VerifyRestfulAPI:80 - Statuc Code is:200
+2019-08-09 14:57:36 INFO  VerifyRestfulAPI:83 - Time is:2925.0
+2019-08-09 14:57:36 INFO  VerifyRestfulAPI:86 - Content Length is:24
+2019-08-09 14:57:36 WARN  VerifyRestfulAPI:89 - Content Length is:24
+2019-08-09 14:57:39 INFO  VerifyRestfulAPI:97 - ------------- : Test Case: TC002_getSpecificEmployeeDetails -----------------------
+2019-08-09 14:57:39 INFO  VerifyRestfulAPI:98 - ------------- : Test Case: Logout -----------------------
+2019-08-09 14:57:39 INFO  VerifyRestfulAPI:100 - ------------- : Populate Perticular Employee Details : -----------------------
+2019-08-09 14:57:39 ERROR VerifyRestfulAPI:107 - The Specific Employee Details are :io.restassured.internal.RestAssuredResponseImpl@4fdfa676
+2019-08-09 14:57:39 ERROR VerifyRestfulAPI:110 - Get Specific Employee Details Response Body is :=>  false

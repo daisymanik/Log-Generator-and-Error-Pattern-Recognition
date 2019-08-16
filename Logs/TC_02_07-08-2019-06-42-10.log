@@ -1,0 +1,17 @@
+2019-08-07 18:42:10 INFO  VerifyRestfulAPI:43 - ------------- : Test Case: Login -----------------------
+2019-08-07 18:42:10 INFO  VerifyRestfulAPI:44 - ------------- : Verify Populate Users Scenario : -----------------------
+2019-08-07 18:42:14 INFO  VerifyRestfulAPI:54 - The Employee Details :io.restassured.internal.RestAssuredResponseImpl@130dca52
+2019-08-07 18:42:15 INFO  VerifyRestfulAPI:59 - The StatusLine is :HTTP/1.1 200 OK
+-------------------------- ######FATAL## -------------------------------
+2019-08-07 18:42:15 FATAL VerifyRestfulAPI:63 - The Response is :text/html; charset=UTF-8
+-------------------------- ######FATAL## -------------------------------
+2019-08-07 18:42:15 FATAL VerifyRestfulAPI:69 - Server Type is:Apache
+2019-08-07 18:42:15 INFO  VerifyRestfulAPI:76 - ResponseBody is:null
+-------------------------- ######FATAL## -------------------------------
+2019-08-07 18:42:15 FATAL VerifyRestfulAPI:79 - Statuc Code is:200
+2019-08-07 18:42:15 INFO  VerifyRestfulAPI:82 - Time is:2363.0
+2019-08-07 18:42:15 INFO  VerifyRestfulAPI:85 - Content Length is:24
+2019-08-07 18:42:15 INFO  VerifyRestfulAPI:92 - ------------- : Test Case: Logout -----------------------
+2019-08-07 18:42:15 INFO  VerifyRestfulAPI:93 - ------------- : Populate Perticular Employee Details : -----------------------
+2019-08-07 18:42:16 ERROR VerifyRestfulAPI:100 - The Specific Employee Details are :io.restassured.internal.RestAssuredResponseImpl@1f6c9cd8
+2019-08-07 18:42:16 ERROR VerifyRestfulAPI:103 - Get Specific Employee Details Response Body is :=>  false
